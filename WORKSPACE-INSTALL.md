@@ -16,3 +16,5 @@ Installs relative .agents/skills links without replacing existing entries. Keep 
 Discovery: https://learn.chatgpt.com/docs/build-skills . Available on the next turn; restart the session if absent. This installs skill instructions and sources, not CLI dependencies, MCP connections, hooks, credentials, rendering environments or indexes. Verify those prerequisites before running a skill. No external-service end-to-end test was performed.
 
 Quoted the canvas-procedural-animation and character-rigging YAML descriptions to preserve embedded colons and pass strict YAML parsing; wording unchanged. Read AGENT_GUIDE.md from this checkout before video production.
+
+Runtime setup update (2026-10-22): see RUNTIME-SETUP.md for installed versions, verified checks, and remaining prerequisites.
